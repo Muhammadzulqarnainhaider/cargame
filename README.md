@@ -1,1 +1,1 @@
-*This is a Car Game made with python 
+This is a Car Game made with python 
